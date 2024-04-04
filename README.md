@@ -5,3 +5,6 @@ It was not my best work, but pretty much what I was capable of at the time.
 
 Bootstrap 3 was a revelation to me back then.
 
+This code was lifted from CodePen where the original project was hosted.
+
+
